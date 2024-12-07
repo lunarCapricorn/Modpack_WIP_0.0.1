@@ -1,4 +1,4 @@
-# Modpack_WIP_0.0.1
+# Modpack_WIP_0.0.1 WIP
 Forge: 47.3.0\
 Minecraft: 1.20.1
 
@@ -15,6 +15,9 @@ Minecraft: 1.20.1
 
 ![image](https://github.com/user-attachments/assets/68783fa9-7f16-431a-9e94-f0e9cc19fdcb)
 
+5. Enjoy! Server IP is in Messenger group.
 
 
+If there are any issues hit me up in messenger.
 
+Any recommendations or suggestions -- hit me up on messenger.
