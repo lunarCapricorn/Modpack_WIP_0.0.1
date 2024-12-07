@@ -17,6 +17,7 @@ Minecraft: 1.20.1
 
 5. Enjoy! Server IP is in Messenger group.
 
+! If you're broke and do not have premium MC, try renaming the cracked launcher of choise to 'minecraft.exe'.
 
 If there are any issues hit me up in messenger.
 
